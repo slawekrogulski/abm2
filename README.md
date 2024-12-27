@@ -5,4 +5,4 @@
 ### withdrawal
 ### transfer
 #### sufficient funds
-#### insufficient funds
+#### in-sufficient funds
