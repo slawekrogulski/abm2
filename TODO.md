@@ -2,3 +2,4 @@
 - [ ] deposits
 - [ ] withdrawals
 - [ ] transfers
+- [ ] reports
